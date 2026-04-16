@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Tests/">
+    <Project Path="Muflone.Transport.Kafka.AppTests/Muflone.Transport.Kafka.AppTests.csproj" />
+    <Project Path="Muflone.Transport.Kafka.Tests/Muflone.Transport.Kafka.Tests.csproj" />
+  </Folder>
+  <Project Path="Muflone.Transport.Kafka/Muflone.Transport.Kafka.csproj" />
+</Solution>
